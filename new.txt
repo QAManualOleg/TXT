@@ -1,0 +1,6 @@
+First name: Oleg
+ Past name: Mozghovuy
+ Age: 24 years
+ Pets: 0
+ Cash: 800$
+
